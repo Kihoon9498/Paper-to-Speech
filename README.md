@@ -1,5 +1,5 @@
 # Project Name : 📜 Paper-to-Speech(P2S)
-</br>
+논문의 정보를 쉽게 파악할 수 있게 논문 내용을 한국어 음성으로 변환해주는 프로젝트
 
 ## Contents Table
 - [프로젝트 상세 내용](#프로젝트-상세-내용)
