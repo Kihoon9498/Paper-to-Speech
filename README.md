@@ -5,7 +5,7 @@
 - [프로젝트 상세 내용](#프로젝트-상세-내용)
     - [문제 상황](#문제-상황)
     - [기대효과](#기대효과)
-    - [PROJECT 설명](#PROJECT-설명)
+    - [Project 설명](#PROJECT-설명)
     - [활용 Dataset](#활용-Dataset)
 - [사용 기술 및 라이브러리](#사용-기술-및-라이브러리)
 - [담당한 부분](#담당한-부분) 
@@ -53,7 +53,9 @@ AIHub - [논문자료 요약](https://aihub.or.kr/aihubdata/data/view.do?currMen
 - Bart, KoBart, Tacotron2
 
 ## 담당한 부분
-- 텍스트 데이터 전처리, TTS(Tacotron2)모델 Pipeline 구축, 구현을 위한 전체 모델 연결
+- 텍스트 데이터 전처리
+- TTS(Tacotron2)모델 Pipeline 구축
+- 구현을 위한 전체 모델 연결
 
 ## 🗃️ Environment
 
