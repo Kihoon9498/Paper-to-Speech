@@ -39,6 +39,7 @@
 논문의 정보를 쉽게 파악할 수 있도록 영어/한국어로 된 논문 내용을 한국어 음성 파일로 변환시켜 학습할 수 있게 해주는 프로젝트
 
 ### 활용 Dataset
+![Alt text](image-1.png)
 AIHub - [논문자료 요약](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=90)
 
 - 3만개의 원문 / Summary 데이터 이용
